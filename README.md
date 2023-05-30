@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://restfulml.de<br>🌱 I’m currently learning Machine Learning and React
+🔭 I’m currently learning Machine Learning and React
 
 
 ## 🌐 Socials:
