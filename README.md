@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dr.doomxp@gmail.com**
 
-- You can allso find me on Huggingface: **https://huggingface.co/kaahila**
+- You can also find me on Huggingface: **https://huggingface.co/kaahila**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
