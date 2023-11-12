@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tobi</h1>
 <h3 align="center">Some where between Data, Backend and Frontend.</h3>
 
-- 🌱 I’m currently learning **Machine Learning and React**
-
-- 📫 How to reach me **dr.doomxp@gmail.com**
-
 - You can also find me on Huggingface: **https://huggingface.co/kaahila**
 
 <h3 align="left">Connect with me:</h3>
